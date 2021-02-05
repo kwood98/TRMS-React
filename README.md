@@ -29,4 +29,21 @@ To-do list:
 
 ## Getting Started
 
-git clone https://github.com/kwood98/TRMS-React.git
+1. Clone the reposistory
+`git clone https://github.com/kwood98/TRMS-React.git`
+2. Move into kwood folder
+`cd .\kwood\`
+3. Install NPM packages
+`npm install`
+4. Build tables
+`npm run setup`
+5. Start the server
+`npm run start`
+6. Open a new powershell window
+7. Move into kwood-frontend folder
+`cd .\kwood-frontend\`
+8. Install NPM Packages
+`npm install`
+9. Start the development server
+`npm run start`
+
